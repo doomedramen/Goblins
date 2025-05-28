@@ -791,11 +791,6 @@ hash = "609977810f00b11a4522fc96de8bf125be4a0ed066d354644dfc369adf7616a3"
 metafile = true
 
 [[files]]
-file = "mods/create-dreams-desires.pw.toml"
-hash = "0d08c029ca4fa0c2cf5b125e0f028847738c12f1868ce4faf8ce3b427462debf"
-metafile = true
-
-[[files]]
 file = "mods/create-encased.pw.toml"
 hash = "8f5c0234b7ff63f22a4825ebd8a800dd9b66b67c3390d3139df80b6baada99cd"
 metafile = true
@@ -1331,11 +1326,6 @@ hash = "308e0d918ea91f029cf72db5a13b415e1bcdca462c1a021a5f27d77c4fee253c"
 metafile = true
 
 [[files]]
-file = "mods/skin-layers-3d.pw.toml"
-hash = "1ca2014e50708ff3aadf9d946dbb43170aa3c6e0ba5ec14fbadde961768161ca"
-metafile = true
-
-[[files]]
 file = "mods/smarter-farmers-farmers-replant.pw.toml"
 hash = "2c8ede47d9914ba81af5e6b2445ff0a38a3131f4d391cae1cb2b5b9eaefe9efb"
 metafile = true
@@ -1383,11 +1373,6 @@ metafile = true
 [[files]]
 file = "mods/structory-towers.pw.toml"
 hash = "c717a543df79badff07c5953669012b07543f8f7faa4f488f64c41976f780262"
-metafile = true
-
-[[files]]
-file = "mods/structory.pw.toml"
-hash = "97f0df4c55858f545b95ccaff7e919fccbc26910555ea0cc6087553bc1ae5d61"
 metafile = true
 
 [[files]]
