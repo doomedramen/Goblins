@@ -1081,11 +1081,6 @@ hash = "d728d7cb790bf8a9fbbe4a0f0929092aa84e25975e4fdc0e9402a72e3d955a08"
 metafile = true
 
 [[files]]
-file = "mods/particular-reforged.pw.toml"
-hash = "09d8d99a596ada796848fd01716a4a54430efaa910ca9c0b778d26ba59ea7d7b"
-metafile = true
-
-[[files]]
 file = "mods/prickle.pw.toml"
 hash = "5a355cacb43c599215f300c590829e86a7177ed5d62f3589918e2201532b1d41"
 metafile = true
