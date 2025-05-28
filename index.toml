@@ -811,11 +811,6 @@ hash = "f885fa3bea3969aa0dac1ec6f3f49ca7e894208ab9a2e69ed4aa649f67d3722d"
 metafile = true
 
 [[files]]
-file = "mods/entityculling.pw.toml"
-hash = "696300872c8ee9d7d030726f98554fe5b4f0e308f0a38e74a9928689c88b1726"
-metafile = true
-
-[[files]]
 file = "mods/explorers-compass.pw.toml"
 hash = "35bad9f01671b5b4284ad547dab6635b2a029980c88d82007690e9232a5cb420"
 metafile = true
@@ -1061,11 +1056,6 @@ hash = "78cf82fda4c8a7ea9556cf4481b43f38762151bcac0a09fd412f82d5f0883cc7"
 metafile = true
 
 [[files]]
-file = "mods/not-enough-animations.pw.toml"
-hash = "404115cae5f1208950ab2698bd65b5df7bd82990d1ffa28144195702290de900"
-metafile = true
-
-[[files]]
 file = "mods/oceans-delight.pw.toml"
 hash = "60959e2d411a9a57e1eb3f64d75761ee9728eb1e480e3911d6714de71c2bf51f"
 metafile = true
@@ -1176,11 +1166,6 @@ hash = "308e0d918ea91f029cf72db5a13b415e1bcdca462c1a021a5f27d77c4fee253c"
 metafile = true
 
 [[files]]
-file = "mods/skin-layers-3d.pw.toml"
-hash = "1ca2014e50708ff3aadf9d946dbb43170aa3c6e0ba5ec14fbadde961768161ca"
-metafile = true
-
-[[files]]
 file = "mods/smarter-farmers-farmers-replant.pw.toml"
 hash = "2c8ede47d9914ba81af5e6b2445ff0a38a3131f4d391cae1cb2b5b9eaefe9efb"
 metafile = true
@@ -1223,11 +1208,6 @@ metafile = true
 [[files]]
 file = "mods/storage-drawers.pw.toml"
 hash = "14890ae5d8a1d16f4e61b566e662e8bf191a47f0ce70b3cbac771190038eff9a"
-metafile = true
-
-[[files]]
-file = "mods/structory.pw.toml"
-hash = "97f0df4c55858f545b95ccaff7e919fccbc26910555ea0cc6087553bc1ae5d61"
 metafile = true
 
 [[files]]
