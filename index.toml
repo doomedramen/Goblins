@@ -1366,11 +1366,6 @@ hash = "14890ae5d8a1d16f4e61b566e662e8bf191a47f0ce70b3cbac771190038eff9a"
 metafile = true
 
 [[files]]
-file = "mods/structory-towers.pw.toml"
-hash = "c717a543df79badff07c5953669012b07543f8f7faa4f488f64c41976f780262"
-metafile = true
-
-[[files]]
 file = "mods/structure-essentials-forge-fabric.pw.toml"
 hash = "fa83a43df0c7545b4c6d9f82f3c50fb6634c965aa742bab3aa626b7b705f09ac"
 metafile = true
