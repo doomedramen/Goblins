@@ -1,0 +1,13 @@
+name = "Goblins"
+author = "Martin Page"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "0542184607e970106fc2e51a2681f3b286e99415329cd115be7ae5b08dffa184"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.172"

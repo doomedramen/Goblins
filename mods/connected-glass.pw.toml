@@ -1,0 +1,13 @@
+name = "Connected Glass"
+filename = "connectedglass-1.1.13-neoforge-mc1.21.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f7101f6f62ef3296b4860a7bd0b3fcb093ae90f7"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6397204
+project-id = 383129
