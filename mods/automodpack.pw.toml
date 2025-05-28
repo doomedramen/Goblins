@@ -1,0 +1,13 @@
+name = "AutoModpack"
+filename = "automodpack-mc1.21.1-neoforge-4.0.0-beta36.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7ca76721435b896d91db5f1efdb8a66a07de76bf"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6536459
+project-id = 639211
